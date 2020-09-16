@@ -1,3 +1,8 @@
+/*setting the background*/
+body{
+    background-image: url("bg.jpg");
+}
+
 /** styling of the first container*/
 .flexbox-container-1 {
     height: 100px;
@@ -22,7 +27,7 @@
 }
 
 /*setting the search icon*/
-.searchIcon{
+.searchButton{
     background: #ffec00;
     width: 10%;
     border-radius: 5px;
@@ -47,7 +52,7 @@
 .content{
     width: 700px;
     min-height: 600px;
-    background-color: rgb(204, 191, 191);
+    background-image: url("thank.gif");
 }
 
 /* styling the sideBox flexbox item*/
